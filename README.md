@@ -463,7 +463,8 @@ If these notebooks inform a teaching resource, research paper, presentation, cou
 ```bibtex
 @misc{ray_responsible_ai_notebooks_2026,
   author       = {Ray, Partha Pratim},
-  title        = {Responsible AI: Companion Python Laboratory Notebooks},
+  title        = {Responsible AI: A Textbook on Ethics, Fairness, Safety and
+	Governance},
   year         = {2026},
   howpublished = {GitHub repository},
   url          = {https://github.com/ParthaPRay/Responsible-AI-Codebook},
