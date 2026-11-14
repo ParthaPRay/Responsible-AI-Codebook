@@ -1,6 +1,7 @@
-# Responsible AI — Companion Python Laboratory Notebooks
+# Responsible AI: A Textbook on Ethics, Fairness, Safety and Governance — Companion Python Laboratory Notebooks
 
-**A collection of 159 hands-on Jupyter/Google Colab notebooks, provided as 15 chapter ZIP archives, accompanying the textbook *Responsible AI*.**
+**A collection of 159 hands-on Jupyter/Google Colab notebooks, provided as 15 chapter ZIP archives, accompanying the textbook *Responsible AI: A Textbook on Ethics, Fairness, Safety and
+	Governance*.**
 
 **Repository:** [https://github.com/ParthaPRay/Responsible-AI-Codebook](https://github.com/ParthaPRay/Responsible-AI-Codebook)
 
@@ -456,7 +457,7 @@ If these notebooks inform a teaching resource, research paper, presentation, cou
 
 **Suggested repository citation:**
 
-> Ray, Partha Pratim. *Responsible AI: Companion Python Laboratory Notebooks*. GitHub repository, 2026. Repository URL: `https://github.com/ParthaPRay/Responsible-AI-Codebook` (accessed `[access date]`).
+> Ray, Partha Pratim. *Responsible AI: A Textbook on Ethics, Fairness, Safety and Governance*. GitHub repository, 2026. Repository URL: `https://github.com/ParthaPRay/Responsible-AI-Codebook` (accessed `[access date]`).
 
 **BibTeX template:**
 
@@ -480,4 +481,4 @@ Bug reports, reproducibility issues, and suggestions for improving pedagogical c
 
 ---
 
-**Created by Partha Pratim Ray** · *Responsible AI* textbook companion · **15 chapters / 159 laboratory notebooks**
+**Created by Partha Pratim Ray** · *Responsible AI: A Textbook on Ethics, Fairness, Safety and Governance* textbook companion · **15 chapters / 159 laboratory notebooks**
